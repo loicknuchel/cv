@@ -12,6 +12,8 @@
 
 ## Expériences
 
+- **Août 2013 - maintenant** : Développeur freelance Java / Web
+
 - **Janvier 2012 – juillet 2013** : Mission de développement Java / Java EE chez Amundi
  - Développement d’outils à destination des équipes de production.
  - **Projets** : Adsef, Adnet, Monit, Fta-access, Habga, wifi-assyst, migration assyst v10
