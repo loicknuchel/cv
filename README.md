@@ -1,9 +1,7 @@
-# Loïc Knuchel
+# Loïc Knuchel - Développeur Java/Web
 119 rue des Pyrénées 75020 Paris  
 [loicknuchel@gmail.com](mailto:loicknuchel@gmail.com)  
-[LinkedIn](http://www.linkedin.com/in/loicknuchel) - [Github](https://github.com/loicknuchel) - [Twitter](https://twitter.com/loicknuchel)
-
-# Développeur Web et Java
+[Hopwork](http://www.hopwork.com/profile/519b5a232a07e9483ddedd65) - [LinkedIn](http://www.linkedin.com/in/loicknuchel) - [Github](https://github.com/loicknuchel) - [Twitter](https://twitter.com/loicknuchel)
 
 ## Compétences
 
