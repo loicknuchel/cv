@@ -38,18 +38,19 @@
 
 
 
-## Formation
-### Académique
-- **2010 - 2011** : 3ème année d’école d’ingénieur à l’ENSIMAG en année spéciale
-- **2008 - 2009** : 1ière et 2ième année d’école d’ingénieur à PHELMA, filière micro-électronique
-- **2006 - 2008** : Prépa scientifique au lycée Masséna de Nice (PCSI puis PC*)
-- **2006** : Baccalauréat Scientifique s.v.t., option maths avec mention
+## Formations
 
 ### Spécialisées
 - **09/2013 - 12/2013** formation systèmes de recommandation sur coursera ([cours](https://www.coursera.org/course/recsys))
 - **03/09/2013** : atelier Neo4j par Zenika ([page](http://info.neotechnology.com/0903-paris-register.html))
 - **04/2013 - 05/2013** : formation Scala sur coursera (non terminée) ([cours](https://class.coursera.org/progfun-002))
 - **02/2013 - 04/2013** : formation MongoDB par 10gen. ([diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
+
+### Académiques
+- **2010 - 2011** : 3ème année d’école d’ingénieur à l’ENSIMAG en année spéciale
+- **2008 - 2009** : 1ière et 2ième année d’école d’ingénieur à PHELMA, filière micro-électronique
+- **2006 - 2008** : Prépa scientifique au lycée Masséna de Nice (PCSI puis PC*)
+- **2006** : Baccalauréat Scientifique s.v.t., option maths avec mention
 
 
 
