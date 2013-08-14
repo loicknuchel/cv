@@ -17,7 +17,7 @@
  - **Projets** : Adsef, Adnet, Monit, Fta-access, Habga, wifi-assyst, migration assyst v10
  - **Technologies** : Java6 / Java7 / Java EE, struts2, EJB3, jsch, Oracle, MySQL, jQuery, Bootstrap, HTML5/CSS3, webservices, LDAP
  - **Outils** : Maven, Svn, Hudson, Sonar, Nexus
- - **Autres** : Organisateur et speaker des pizzatech
+ - **Autres** : Organisateur et speaker des TechLunch
 
 - **Janvier 2012 – juillet 2013** : Nexeo (SSII)
  - Référent technique Java
