@@ -41,7 +41,7 @@
 ### Spécialisées
 - **09/2013 - 12/2013** formation systèmes de recommandation sur coursera ([cours](https://www.coursera.org/course/recsys))
 - **03/09/2013** : atelier Neo4j par Zenika ([page](http://info.neotechnology.com/0903-paris-register.html))
-- **04/2013 - 05/2013** : formation Scala sur coursera (non terminée) ([cours](https://class.coursera.org/progfun-002))
+- **04/2013 - 05/2013** : formation Scala sur coursera (non terminée) ([cours](https://www.coursera.org/course/progfun))
 - **02/2013 - 04/2013** : formation MongoDB par 10gen. ([diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
 
 ### Académiques
