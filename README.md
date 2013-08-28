@@ -41,11 +41,13 @@
 ## Formations
 
 ### Spécialisées
-- **10/2013 - 12/2013** formation conception et mise en oeuvre d'algorithmes ([coursera](https://www.coursera.org/course/algoprog))
-- **09/2013 - 12/2013** formation systèmes de recommandation ([coursera](https://www.coursera.org/course/recsys))
+- **28/10/2013 - 22/12/2013** MOOC conception et mise en oeuvre d'algorithmes ([coursera](https://www.coursera.org/course/algoprog))
+- **18/09/2013 - 23/10/2013** MOOC droit des sociétés françaises ([CAVEJ](http://www.e-cavej.org/5/73/le-cavej-mooc-sorbonne-droit.html))
+- **16/09/2013 - 10/10/2013** MOOC Scala (2ème tentative) ([coursera](https://www.coursera.org/course/progfun))
+- **03/09/2013 - 10/12/2013** MOOC systèmes de recommandation ([coursera](https://www.coursera.org/course/recsys))
 - **03/09/2013** : atelier Neo4j par Zenika ([page](http://info.neotechnology.com/0903-paris-register.html))
-- **04/2013 - 05/2013** : formation Scala (non terminée) ([coursera](https://www.coursera.org/course/progfun))
-- **02/2013 - 04/2013** : formation MongoDB par 10gen. ([diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
+- **25/03/2013 - 19/05/2013** : MOOC Scala (non terminé) ([coursera](https://www.coursera.org/course/progfun))
+- **25/02/2013 - 24/04/2013** : MOOC MongoDB par 10gen. ([diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
 
 ### Académiques
 - **2010 - 2011** : 3ème année d’école d’ingénieur à l’ENSIMAG en année spéciale
