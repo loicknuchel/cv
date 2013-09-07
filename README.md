@@ -44,6 +44,7 @@
 - **28/10/2013 - 22/12/2013** MOOC conception et mise en oeuvre d'algorithmes ([coursera](https://www.coursera.org/course/algoprog))
 - **18/09/2013 - 23/10/2013** MOOC droit des sociétés françaises ([CAVEJ](http://www.e-cavej.org/5/73/le-cavej-mooc-sorbonne-droit.html))
 - **16/09/2013 - 10/10/2013** MOOC Scala (2ème tentative) ([coursera](https://www.coursera.org/course/progfun))
+- **09/09/2013 - 20/10/2013** MOOC data mining ([university of waikato](https://weka.waikato.ac.nz/dataminingwithweka/))
 - **03/09/2013 - 10/12/2013** MOOC systèmes de recommandation ([coursera](https://www.coursera.org/course/recsys))
 - **03/09/2013** : atelier Neo4j par Zenika ([page](http://info.neotechnology.com/0903-paris-register.html))
 - **25/03/2013 - 19/05/2013** : MOOC Scala (non terminé) ([coursera](https://www.coursera.org/course/progfun))
