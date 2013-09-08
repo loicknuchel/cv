@@ -48,7 +48,7 @@
 - **03/09/2013 - 10/12/2013** MOOC systèmes de recommandation ([coursera](https://www.coursera.org/course/recsys))
 - **03/09/2013** : atelier Neo4j par Zenika ([page](http://info.neotechnology.com/0903-paris-register.html))
 - **25/03/2013 - 19/05/2013** : MOOC Scala (non terminé) ([coursera](https://www.coursera.org/course/progfun))
-- **25/02/2013 - 24/04/2013** : MOOC MongoDB par 10gen. ([diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
+- **25/02/2013 - 24/04/2013** : MOOC MongoDB par 10gen. ([cours](https://education.10gen.com/courses/10gen/M101J/2013_Spring/about) [diplôme](https://s3.amazonaws.com/edu-cert.10gen.com/downloads/2b0645c934c44e848ade44490ae1c6bc/Certificate.pdf))
 
 ### Académiques
 - **2010 - 2011** : 3ème année d’école d’ingénieur à l’ENSIMAG en année spéciale
