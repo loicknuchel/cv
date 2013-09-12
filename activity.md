@@ -10,6 +10,7 @@
 [09/07/2013](http://www.meetup.com/HumanTalks-Paris/events/126207802/) -
 [10/09/2013](http://www.meetup.com/HumanTalks-Paris/events/137484932/)
 - **Année 2013** Speaker chez Nexeo : 
+- **04/11/2013 - 30/12/2013** MOOC Reactive Programming ([coursera](https://www.coursera.org/course/reactive))
 - **28/10/2013 - 22/12/2013** MOOC conception et mise en oeuvre d'algorithmes ([coursera](https://www.coursera.org/course/algoprog))
 - **17/10/2013** Codeurs en seine ([lien](http://www.codeursenseine.com/))
 - **18/09/2013 - 23/10/2013** MOOC droit des sociétés françaises ([CAVEJ](http://www.e-cavej.org/5/73/le-cavej-mooc-sorbonne-droit.html))
