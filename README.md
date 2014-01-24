@@ -1,18 +1,18 @@
 # Loïc Knuchel - Développeur Java/Web
 119 rue des Pyrénées 75020 Paris  
 [loicknuchel@gmail.com](mailto:loicknuchel@gmail.com)  
-[Hopwork](http://www.hopwork.com/profile/519b5a232a07e9483ddedd65) - [LinkedIn](http://www.linkedin.com/in/loicknuchel) - [Github](https://github.com/loicknuchel) - [Twitter](https://twitter.com/loicknuchel)
+[Blog](http://loic.knuchel.org/blog/) - [LinkedIn](http://www.linkedin.com/in/loicknuchel) [Hopwork](http://www.hopwork.com/profile/519b5a232a07e9483ddedd65) - [Github](https://github.com/loicknuchel) - [Twitter](https://twitter.com/loicknuchel)
 
 ## Compétences
 
-- **Langages** : Java, Java EE, JavaScript, HTML5/CSS3, SQL
-- **Frameworks** : Play2, Struts2, Angular, jQuery
+- **Langages** : Scala, Java, Java EE, JavaScript, HTML5/CSS3, SQL
+- **Frameworks** : Play2, Angular, Struts2, jQuery
 - **Bases de données** : Oracle, MySQL, MongoDB, Neo4j
 - **Outils** : Maven, Git, Svn, Yeoman
 
 ## Expériences
 
-- **Août 2013 - maintenant** : Développeur freelance Java / Web
+- **Août 2013 - maintenant** : Développeur freelance Scala / Java / Web
 
 - **Janvier 2012 – juillet 2013** : Mission de développement Java / Java EE chez Amundi
  - Développement d’outils à destination des équipes de production.
